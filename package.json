@@ -4,7 +4,8 @@
   "description": "Projeto utiloizando typescript que visa responder a questão eterna. Quantos zumbies precisa para derrotar john wick",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/MauricioCoproscki/johnzombie/issues"
   },
-  "homepage": "https://github.com/MauricioCoproscki/johnzombie#readme"
+  "homepage": "https://github.com/MauricioCoproscki/johnzombie#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.4"
+  }
 }
