@@ -1,0 +1,24 @@
+{
+  "name": "johnzombie",
+  "version": "1.0.0",
+  "description": "Projeto utiloizando typescript que visa responder a questão eterna. Quantos zumbies precisa para derrotar john wick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioCoproscki/johnzombie.git"
+  },
+  "keywords": [
+    "john",
+    "wick",
+    "zumbies"
+  ],
+  "author": "Mauricio Coproscki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MauricioCoproscki/johnzombie/issues"
+  },
+  "homepage": "https://github.com/MauricioCoproscki/johnzombie#readme"
+}
